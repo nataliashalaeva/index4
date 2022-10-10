@@ -1,1 +1,10 @@
+.body{
+    background-color:darkseagreen;
+}
 
+          
+a {
+    text-decoration: none;
+  }
+  tr:nth-child(even) { background:burlywood; }
+  tr:nth-child(odd) { background:cadetblue; }
